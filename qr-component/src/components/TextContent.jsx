@@ -1,3 +1,5 @@
+import "./TextContent.css";
+
 function TextContent() {
   return (
     <div className="card__textContent">

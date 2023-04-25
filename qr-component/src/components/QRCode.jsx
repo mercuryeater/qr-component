@@ -1,3 +1,4 @@
+import "./QRCode.css";
 import qrCode from "/image-qr-code.png";
 function QRCode() {
   return (

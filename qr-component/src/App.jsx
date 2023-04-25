@@ -1,6 +1,6 @@
 import "./App.css";
-import TextContent from "/components/TextContent.jsx";
-import QRCode from "/components/QRCode.jsx";
+import TextContent from "/src/components/TextContent.jsx";
+import QRCode from "/src/components/QRCode.jsx";
 
 function App() {
   return (
@@ -10,5 +10,4 @@ function App() {
     </div>
   );
 }
-
 export default App;

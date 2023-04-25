@@ -1,0 +1,14 @@
+.card__textContent {
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  width: 80%;
+}
+.card__textContent__Title {
+  font-size: 22px;
+  color: hsl(218, 44%, 22%);
+  font-weight: bold;
+}
+.card__textContent__callToAction {
+  font-weight: normal;
+  color: hsl(220, 15%, 55%);
+}
