@@ -1,6 +1,6 @@
 import "./App.css";
-import TextContent from "/src/components/TextContent.jsx";
-import QRCode from "/src/components/QRCode.jsx";
+import TextContent from "/src/components/TextContent/TextContent.jsx";
+import QRCode from "/src/components/QRCode/QRCode.jsx";
 
 function App() {
   return (
