@@ -1,6 +1,6 @@
 # qr-component
 
-This is the solution to "qr component" proyecto of Make It Real.
+This is the solution to "qr component" project of Make It Real.
 
 ## Overview 
 ### The challenge
